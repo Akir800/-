@@ -1,7 +1,7 @@
 # Моё портфолио
 Hello
 My name is Alex 
-photo.jpg
+c:\Users\МаркI\OneDrive\Изображения\IMG_5334.png
 i am 38 years old
 I love winter
 I love my dog
